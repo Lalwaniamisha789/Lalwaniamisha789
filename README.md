@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/amisha-lalwani/)
 - [YouTube](https://www.youtube.com/@amishalalwani)
-- 📫 Email: amishalalwani701@gmail.com
+- Email: amishalalwani701@gmail.com
 
 <!---
 Lalwaniamisha789/Lalwaniamisha789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
